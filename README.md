@@ -3,7 +3,7 @@ Project 1 java multithread webserver
 Lab assignments for the CSC 317: Computer Networks course at Cornell College.
 
 ### Lab Info
-
++ **Multithreaded webserver using Java
 ### Contributors
 
 + **[Oldkin](https://github.com/Oldkin)** - *Akash Surti*
